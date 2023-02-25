@@ -10,12 +10,14 @@ Skills: NODE / EXPRESS / MONGO / REACT / JS
 
 
 - 🔭 I’m currently working on Learning Management system 
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning Data structure
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Riyas-iqbal)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Riyas-iqbal&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyas-iqbal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Riyas-iqbal)  
 
