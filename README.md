@@ -15,6 +15,8 @@ Skills: NODE / EXPRESS / MONGO / REACT / JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Riyas-iqbal)  
 
+![](https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Riyas-iqbal&show_icons=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyas-iqbal&layout=compact)
