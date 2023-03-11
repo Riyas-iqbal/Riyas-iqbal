@@ -7,13 +7,12 @@ Skills: NODE / EXPRESS / MONGO / REACT / JS
 
 ![Node.js Developer](https://media.licdn.com/dms/image/D5616AQEgQ42Iy13yTQ/profile-displaybackgroundimage-shrink_350_1400/0/1673327637308?e=1679529600&v=beta&t=u7CpAdx_aAjLRJKVruOXb_H7vK9Ai5OD1Ahk_yIZJnU)
 
-
-
 - 🔭 I’m currently working on Learning Management system 
 - 🌱 I’m currently learning Data structure
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Riyas-iqbal)  
+<div align='center'>
+  ![Link](https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green)
+  
+<div/>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Riyas-iqbal&show_icons=true)  
