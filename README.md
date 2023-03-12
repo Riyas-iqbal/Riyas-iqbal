@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Riyas Iqbal
 #### Node.js Developer
 
-Portfolio - https://riyas-iqbal.netlfiy.app
+[Portfolio](https://riyas-iqbal.netlify.app)
 
 
 
