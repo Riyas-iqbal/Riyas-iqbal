@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Riyas Iqbal
 #### Node.js Developer
 
-<h3>[Portfolio](https://riyas-iqbal.netlify.app)</h3>
+<h1>[Portfolio](https://riyas-iqbal.netlify.app)</h>
 
 Self-taught developer with a passion for exploring the ever-evolving realm of technology. I enjoy delving into new and exciting projects that challenge my skills and push me to learn more. I am constantly experimenting with new technologies to stay up-to-date with industry trends and developments, and I am always eager to take on new challenges and opportunities to grow as a developer.
 
