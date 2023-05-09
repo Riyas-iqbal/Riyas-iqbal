@@ -11,7 +11,6 @@ Skills: NODE / EXPRESS / MONGO / REACT / JS
 - 🔭 I’m currently working on Learning Management system 
 - 🌱 I’m currently learning Data structure
 
-
 ![](https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green)
 
 <div align='center'>
