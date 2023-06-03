@@ -7,7 +7,6 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 Skills: NODE / EXPRESS / MONGO / REACT / JS 
 
-[url=https://flic.kr/p/2oEJQ68][img]https://live.staticflickr.com/65535/52946924761_e71af25781_o.png[/img][/url][url=https://flic.kr/p/2oEJQ68]Black Technology LinkedIn Banner - 1[/url] by [url=https://www.flickr.com/photos/197698170@N07/]riyas iqbal[/url], on Flickr
 ![Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png)
 - 🔭 I’m currently working on Learning Management system 
 - 🌱 I’m currently learning Clean code
