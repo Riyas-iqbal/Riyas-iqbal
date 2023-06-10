@@ -28,21 +28,21 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 <div/>
 
   <p align="center">
-<a href="https://github.com/Riyas-iqbal/Riyas-iqbal">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Riyas-iqbal/theora">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=theora&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/Riyas-iqbal/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Riyas-iqbal/express-boilerplate">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=express-boilerplate&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Riyas-iqbal/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Riyas-iqbal/NextGen-Store">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=Riyas-iqbal/NextGen-Store&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/Riyas-iqbal/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Riyas-iqbal/User-management-system">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=User-management-system&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
