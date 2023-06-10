@@ -7,7 +7,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=node,mongodb,js,ts,html,css,express,figma,firebase,git,github,linux,md,netlify,react,redux,nextjs,vite,vscode,postman,babel,,webpack,bootstrap,tailwind,cloudfare,docker,c,vim" />
   </a>
 </p>
 
