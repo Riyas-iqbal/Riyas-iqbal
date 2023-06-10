@@ -39,7 +39,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 <p align="center">
 <a href="https://github.com/Riyas-iqbal/NextGen-Store">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=Riyas-iqbal/NextGen-Store&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=NextGen-Store&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Riyas-iqbal/User-management-system">
