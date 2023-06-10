@@ -5,7 +5,11 @@
 
 Self-taught developer with a passion for exploring the ever-evolving realm of technology. I enjoy delving into new and exciting projects that challenge my skills and push me to learn more. I am constantly experimenting with new technologies to stay up-to-date with industry trends and developments, and I am always eager to take on new challenges and opportunities to grow as a developer.
 
-Skills: NODE / EXPRESS / MONGO / REACT / JS 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ![Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png)
 - 🔭 I’m currently working on Learning Management system 
