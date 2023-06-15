@@ -17,7 +17,6 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 - 🔭 I’m currently working on Learning Management system 
 - 🌱 I’m currently learning Clean code
 
-<span>&nbsp;</span>
 
 
 
