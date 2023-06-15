@@ -18,14 +18,13 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 ![](https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green)
 
-<div align='center'>
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Riyas-iqbal&show_icons=true)  
 
+<div style="display: flex; justify-content: space-around;" align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyas-iqbal&show_icons=true" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com/?user=Riyas-iqbal" alt="GitHub streak stats">
+</div>
+<span>&nbsp;</span>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyas-iqbal&layout=compact) -->
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Riyas-iqbal)  
-<div/>
 
   <p align="center">
 <a href="https://github.com/Riyas-iqbal/theora">
