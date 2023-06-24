@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is **Riyas Iqbal**
     
-<img src='https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green' align='right'/>
+<img src='https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green' align='right' style='border: solid green 10px'/>
 <h3>
 <a href="https://riyas-iqbal.netlify.app">Portfolio</a>
 </h3>
@@ -15,7 +15,9 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
   </a>
 </p>
 
-![Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png)
+<img src='https://live.staticflickr.com/65535/52946924761_e71af25781_o.png' style='border: solid green 10px' />
+
+<!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
 - 🔭 I’m currently working on [Theora](https://github.com/Riyas-iqbal/Theora) Educational Platform
 - 🌱 I’m currently learning Typescript and Clean Architeture
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
