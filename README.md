@@ -34,7 +34,6 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 <span>&nbsp;</span>
 
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyas-iqbal&layout=compact) -->
 
   <p align="center">
