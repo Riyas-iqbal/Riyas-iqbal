@@ -11,7 +11,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,html,css,express,figma,firebase,git,github,linux,md,netlify,react,redux,nextjs,vite,vscode,postman,babel,webpack,bootstrap,tailwind,cloudflare,vim,aws" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,html,css,express,nestjs,angular,figma,firebase,git,github,linux,md,netlify,react,redux,nextjs,vite,vscode,postman,babel,webpack,bootstrap,tailwind,cloudflare,vim,aws" />
   </a>
 </p>
 
